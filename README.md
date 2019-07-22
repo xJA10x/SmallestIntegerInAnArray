@@ -1,0 +1,2 @@
+# SmallestIntegerInAnArray
+Program in C#
